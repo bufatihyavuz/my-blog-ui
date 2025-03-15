@@ -1,5 +1,5 @@
 {
-    "name": "sakai-vue",
+    "name": "my-blog-ui",
     "version": "4.2.0",
     "scripts": {
         "dev": "vite",
@@ -10,8 +10,11 @@
     "dependencies": {
         "@primevue/themes": "^4.2.4",
         "chart.js": "3.3.2",
+        "primeflex": "^3.3.1",
         "primeicons": "^7.0.0",
         "primevue": "^4.2.4",
+        "prismjs": "^1.30.0",
+        "vite-plugin-prismjs": "^0.0.11",
         "vue": "^3.4.34",
         "vue-router": "^4.4.0"
     },

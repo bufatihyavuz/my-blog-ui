@@ -4,10 +4,10 @@
         <div class="font-semibold text-xl mb-4">Get Started</div>
         <p class="text-lg mb-4">
             Sakai is an application template for Vue based on the <a href="https://github.com/vuejs/create-vue" class="font-medium text-primary hover:underline">create-vue</a>, the recommended way to start a <strong>Vite-powered</strong> Vue
-            projects. To get started, clone the <a href="https://github.com/primefaces/sakai-vue" class="font-medium text-primary hover:underline">repository</a> from GitHub and install the dependencies with npm or yarn.
+            projects. To get started, clone the <a href="https://github.com/primefaces/my-blog-ui" class="font-medium text-primary hover:underline">repository</a> from GitHub and install the dependencies with npm or yarn.
         </p>
         <pre class="app-code">
-<code>git clone https://github.com/primefaces/sakai-vue
+<code>git clone https://github.com/primefaces/my-blog-ui
 npm install
 npm run dev</code></pre>
 
