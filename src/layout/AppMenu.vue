@@ -17,7 +17,11 @@ const model = ref([
                         items: [
                             { label: 'MULTI THREADING', icon: 'pi pi-fw pi-bookmark' },
                             { label: 'MEMORY MANAGEMENT & GC', icon: 'pi pi-fw pi-bookmark' },
-                            { label: 'JAVA 8-11-17-21 FARKLAR', icon: 'pi pi-fw pi-bookmark' }
+                            { label: 'JAVA 8-11-17-21 FARKLAR', icon: 'pi pi-fw pi-bookmark' },
+                            { label: 'SOLID Prensipleri', icon: 'pi pi-fw pi-bookmark' },
+                            { label: 'Soyutlama (Abstraction)', icon: 'pi pi-fw pi-bookmark' },
+                            { label: 'Interface (Arayüzler)', icon: 'pi pi-fw pi-bookmark' },
+                            { label: 'Ports & Adapters (Hexagonal Architecture)', icon: 'pi pi-fw pi-bookmark' },
                         ]
                     },
                     {
@@ -91,8 +95,9 @@ const model = ref([
                 label: 'LOGGING & MONITORING',
                 icon: 'pi pi-fw pi-bookmark',
                 items: [
-                    { label: 'ELASTICSEARCH', icon: 'pi pi-fw pi-bookmark' },
-                    { label: 'KIBANA', icon: 'pi pi-fw pi-bookmark' },
+                    { label: '(E)LASTICSEARCH', icon: 'pi pi-fw pi-bookmark' },
+                    { label: '(L)OGSTASH', icon: 'pi pi-fw pi-bookmark' },
+                    { label: '(K)IBANA', icon: 'pi pi-fw pi-bookmark' },
                     { label: 'GRAFANA', icon: 'pi pi-fw pi-bookmark' },
                     { label: 'PROMETHEUS', icon: 'pi pi-fw pi-bookmark' }
                 ]
