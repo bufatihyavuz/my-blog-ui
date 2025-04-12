@@ -2,6 +2,6 @@
 
 <template>
     <div class="layout-footer">
-        FK
+        FY
     </div>
 </template>
